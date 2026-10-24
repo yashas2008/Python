@@ -1,0 +1,37 @@
+
+1.To caluclate the area of the triangle 
+ 
+H = int(input("Enter the hight: "))
+B = int (input("enter the base: "))
+area = 0.5*L*B
+print("area of the triangle: ",area)
+
+2.
+n = int(input("Enter th number: "))
+nn = n+n
+nnn = n+n+n
+result = int(n)+int(nn)+int(nnn)
+result("result using string concatination",result)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'
