@@ -21,6 +21,14 @@
 #     print(product)
 # else:
 #     print(a+b)
+
+# d = {0:10,1:10}
+# key = int(input("Enter the key: "))
+# value = int(input("Enter the value: "))
+# d[key] = value
+# print("updated dictionary: ",d)
+      
+
         
 
               
