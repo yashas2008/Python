@@ -29,7 +29,28 @@
 # print("updated dictionary: ",d)
       
 
-num = int(input("Enter any number between 1to10"))
-for i in range (1,11):
- print(num,"*",i,"=",num*i)
+# num = int(input("Enter any number between 1to10"))
+# for i in range (1,11):
+#  print(num,"*",i,"=",num*i)
+
+even_no = 0
+odd_no = 0
+for i in range(1,11):
+    if i%2 ==0:
+       even_no += 1
+    else:
+        odd_no += 1
+print("count of even number is: ",even_no)
+print("count of odd number is: ",odd_no)
+
+
+
+
+
+
+
+
+
+
+
               
