@@ -33,22 +33,38 @@
 # for i in range (1,11):
 #  print(num,"*",i,"=",num*i)
 
-even_no = 0
-odd_no = 0
-for i in range(1,11):
-    if i%2 ==0:
-       even_no += 1
-    else:
-        odd_no += 1
-print("count of even number is: ",even_no)
-print("count of odd number is: ",odd_no)
+# even_no = 0
+# odd_no = 0
+# for i in range(1,11):
+#     if i%2 ==0:
+#        even_no += 1
+#     else:
+#         odd_no += 1
+# print("count of even number is: ",even_no)
+# print("count of odd number is: ",odd_no)
+
+
+
+# words = input("enter the hypen_seperated words")
+# print(words)
+# word_list = words.split("-")   
+# print (word_list)
+# word_list.sort()
+# print( word_list)
+# result ="-".join(word_list)
+# print("sorted sequence",result)
 
 
 
 
-
-
-
+# words = input("enter the hypen_separeted words: ")
+# print(words)
+# word_list = words.split("-")
+# print(word_list)
+# word_list.sort()
+# print(word_list)
+# result = "-".join(word_list)
+# print("sorted sequence: ",result)
 
 
 
